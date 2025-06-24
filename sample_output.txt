@@ -1,0 +1,22 @@
+Atharva Walke
+Email: atharva@example.com | Phone: +91 9876543210
+LinkedIn: linkedin.com/in/atharvawalke | GitHub: github.com/atharvawalke
+
+Professional Summary:
+A recent MCA graduate with strong knowledge of prompt engineering, AI tools, and OpenAI technologies.
+
+Skills:
+- Prompt Engineering
+- ChatGPT
+- OpenAI API
+- Python
+- GitHub
+- LangChain
+
+Work Experience:
+- Built multiple prompt engineering projects using ChatGPT and OpenAI Playground.
+- Completed certified courses from Simplilearn and DeepLearning.AI.
+
+Education:
+- MCA – XYZ University – 2024
+
