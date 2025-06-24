@@ -1,0 +1,25 @@
+You are a resume builder bot.
+
+Create a professional and ATS-friendly resume in plain text format based on the details provided below.
+
+Details:
+Name: {{NAME}}
+Email: {{EMAIL}}
+Phone: {{PHONE}}
+LinkedIn: {{LINKEDIN}}
+Github: {{GITHUB}}
+Summary: {{SUMMARY}}
+Skills: {{SKILLS}}
+Experience:
+{{EXPERIENCE}} 
+Education:
+{{EDUCATION}}
+
+Output a clean resume with clear section headers like:
+- Contact Information
+- Professional Summary
+- Skills
+- Work Experience
+- Education
+
+Keep formatting clean and concise. Use bullet points where necessary. Highlight the most important parts.
